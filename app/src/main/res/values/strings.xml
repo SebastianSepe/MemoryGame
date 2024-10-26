@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="memory_game">Memory Game</string>
+    <string name="_0">0</string>
+    <string name="start">Start</string>
+    <string name="game_description">"Test your memory by matching pairs of cards as quickly as you can."</string>
+
+</resources>
